@@ -1,0 +1,4 @@
+coverage
+hacking
+pytest
+pytest-cov
